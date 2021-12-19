@@ -1,0 +1,85 @@
+body{
+  background-color: #9292d8 ;
+}
+
+
+
+
+.webadmin{
+  margin: 10% auto;
+  text-align: center;
+  width: 70%;
+  padding: 20px;
+  text-align: center;
+  border-radius: 20px;
+  background-color: rgb(190, 226, 238);
+
+}
+
+
+
+form .box{
+  margin-right: 5% !important;
+  margin-left: 2% !important;
+  margin-bottom: 2%;
+  width: 90% !important;
+  background-color: white;
+  height: fit-content;
+  border-radius: 10px !important;
+
+}
+
+#title{
+  padding: 2%;
+  text-align: center;
+  font-family: cursive;
+  letter-spacing: 5px;
+}
+
+.requestcards{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 2%;
+  justify-content: space-around;
+}
+
+#cards{
+  text-align: center;
+}
+
+.buttons{
+  display: flex;
+  margin: 10%;
+  justify-content: space-around;
+}
+
+.nav-itms{
+  text-decoration: none !important;
+  color: white;
+  margin-right: 10px ;
+  font-size: 22px;
+
+}
+
+.nav-main{
+  color: white !important;
+  font-weight: 600;
+  font-size: 24px !important;
+  margin-right: 2% !important;
+}
+
+Link{
+  text-decoration: none !important;
+
+}
+
+
+
+
+
+
+
+
+
+
+
